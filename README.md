@@ -3,10 +3,9 @@
 
 
 **Description**
-To generate the sine and clipped wave, I used the built-in sin function that is in the math.h library.
-I used the SFML library to do the heavy lifting of converting the sine-waves into .wav files. I then used 
-the sound functionality of SFML to play the sound of the clipped wave.
-
+This program generates a traditional and clipped sine-wave. I used the built-in sin function that is in the math.h library to
+generate each wave. The SFML library was used to do the heavy lifting of converting the sine-waves into .wav files. The SFML library also
+had a built-in audio player that was used to play the clipped waves audio.
 **How it went**
 The project started a bit rocky, as I had a hard time initially getting libsndfile to properly link in visual studio.
 I eventually gave up and decided to use SFML instead and had a much easier time getting it linked properly. This library
