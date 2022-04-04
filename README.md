@@ -1,9 +1,5 @@
-# CS410P Music, Sound & Computers
+# Project Name: HW 1 Clipped
 **Name: Carson Hansen**
-
-
-
-**Project Name: HW 1 Clipped**
 
 
 **Description**
