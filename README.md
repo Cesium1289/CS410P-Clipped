@@ -3,7 +3,7 @@
 
 
 
-**Project Name: HW 1 Clipped **
+**Project Name: HW 1 Clipped**
 
 
 **Description**
