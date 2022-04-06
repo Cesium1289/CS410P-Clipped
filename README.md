@@ -20,6 +20,7 @@ instead uses the audio player the SFML library provided.
 
 **To build this program**
 To be able to build this program, you will need to install the following to get the program to run. 
+
 *Installs the sfml library that is used*
 **sudo apt-get install libsfml-dev** 
 
