@@ -18,3 +18,5 @@ one-second duration, has a frequency of 440Hz, and a sample size of 48000. The s
 will clip any samples to a minimum of -8192 and a maximum of 8192. This program also *does not* use an external program to play the audio and 
 instead uses the audio player the SFML library provided.
 
+**To build this program**
+To be able to build this program, you need the SFML library installed. To get this library, run this command **sudo apt-get install libsfml-dev** 
