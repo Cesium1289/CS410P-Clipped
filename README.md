@@ -19,4 +19,9 @@ will clip any samples to a minimum of -8192 and a maximum of 8192. This program 
 instead uses the audio player the SFML library provided.
 
 **To build this program**
-To be able to build this program, you need the SFML library installed. To get this library, run this command **sudo apt-get install libsfml-dev** 
+To be able to build this program, you will need to install the following to get the program to run. 
+*Installs the sfml library that is used*
+**sudo apt-get install libsfml-dev** 
+
+*Installs the g++ compiler that is used to compile the program*
+**sudo apt-get install g++**
